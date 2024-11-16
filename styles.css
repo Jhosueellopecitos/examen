@@ -1,0 +1,16 @@
+.carta{
+    display:flex;
+    background-color: beige;
+    flex-flow: column;
+    justify-content: space-around;
+    border-color: black;
+    border-radius: 10px;
+
+}
+
+.p{
+
+    
+    font-family: 'Times New Roman', Times, serif;
+   
+}
